@@ -4,4 +4,5 @@
 
 UI ONLY ATM
 
-![Screenshot](Capture.png)
+## WHAT IT LOOKS LIKE
+![Screenshot](https://raw.githubusercontent.com/joehoupert/calculator/master/Capture.PNG)
